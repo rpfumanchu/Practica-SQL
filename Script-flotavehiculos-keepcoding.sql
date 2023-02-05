@@ -321,7 +321,7 @@ values ('07', '2022/11/02', '07', '02', 'PLI-0025', '01', 'P5992', 40250);
 
 insert into flotacoches.vehiculos
 (idvehiculo, fecha_compra, idmodelo, idcolor, matricula, idcompania, poliza, km_totales, descripcion)
-values ('08', '2022/09/10', '02', '03', 'JUT-2687', '01', 'P2526', 20250, 'coche de bicepresidente');
+values ('08', '2022/09/10', '02', '03', 'JUT-2687', '01', 'P2526', 20250, 'coche de vicepresidente');
 
 insert into flotacoches.vehiculos
 (idvehiculo, fecha_compra, idmodelo, idcolor, matricula, idcompania, poliza, km_totales)
