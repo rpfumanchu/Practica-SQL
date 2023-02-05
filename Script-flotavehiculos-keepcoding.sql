@@ -358,7 +358,7 @@ values ('02', 'DOLAR');
 
 insert into flotacoches.vehículo_revision 
 (idvehiculo, idrevision, fecha_revision, km_actual, importe, idmoneda, descripcion)
-values ('01', 'rv-01', '2014/06/21', 80800, 140, '01' 'aceite y filtros');
+values ('01', 'rv-01', '2014/06/21', 80800, 140, '01', 'aceite y filtros');
 
 insert into flotacoches.vehículo_revision 
 (idvehiculo, idrevision, fecha_revision, km_actual, importe, idmoneda, descripcion)
@@ -366,7 +366,7 @@ values ('01', 'rv-02', '2016/07/15', 160780, 600.84, '01', 'ruedas' );
 
 insert into flotacoches.vehículo_revision 
 (idvehiculo, idrevision, fecha_revision, km_actual, importe, idmoneda, descripcion)
-values ('01', 'rv-03', '2017/06/21', 298800, 1800.24, '01' 'culata');
+values ('01', 'rv-03', '2017/06/21', 298800, 1800.24, '01', 'culata');
 
 insert into flotacoches.vehículo_revision 
 (idvehiculo, idrevision, fecha_revision, km_actual, importe, idmoneda, descripcion)
@@ -374,7 +374,7 @@ values ('02', 'rv-01', '2022/03/10', 120548, 180.81, '01', 'pre-itv' );
 
 insert into flotacoches.vehículo_revision 
 (idvehiculo, idrevision, fecha_revision, km_actual, importe, idmoneda, descripcion)
-values ('03', 'rv-01', '2014/01/25', 140800, 160, '01' 'aceite y filtros');
+values ('03', 'rv-01', '2014/01/25', 140800, 160, '01', 'aceite y filtros');
 
 insert into flotacoches.vehículo_revision 
 (idvehiculo, idrevision, fecha_revision, km_actual, importe, idmoneda, descripcion)
@@ -390,11 +390,11 @@ values ('03', 'rv-04', '2019/08/13', 380880, 1500, '01', 'turbo');
 
 insert into flotacoches.vehículo_revision 
 (idvehiculo, idrevision, fecha_revision, km_actual, importe, idmoneda, descripcion)
-values ('04', 'rv-01', '2019/08/25', 62010, 172, '01' 'aceite y filtros');
+values ('04', 'rv-01', '2019/08/25', 62010, 172, '01', 'aceite y filtros');
 
 insert into flotacoches.vehículo_revision 
 (idvehiculo, idrevision, fecha_revision, km_actual, importe, idmoneda, descripcion)
-values ('05', 'rv-01', '2021/03/12', 30010, 158, '01' 'aceite y filtros');
+values ('05', 'rv-01', '2021/03/12', 30010, 158, '01', 'aceite y filtros');
 
 insert into flotacoches.vehículo_revision 
 (idvehiculo, idrevision, fecha_revision, km_actual, importe, idmoneda, descripcion)
