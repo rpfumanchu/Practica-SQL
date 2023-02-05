@@ -14,12 +14,3 @@ where fecha_baja = '4000-01-01';
 
 
 
---Consulta historico vehiculos revision
-
---select v.idvehiculo, m.nombre as Modelo, vr.idrevision, vr.descripcion , vr.fecha_revision, vr.km_actual, vr.importe, tm.nombre as Moneda
---from flotacoches.vehiculos v
---inner join flotacoches.modelo m on m.idmodelo = v.idmodelo 
---inner join flotacoches.vehículo_revision vr on vr.idvehiculo = v.idvehiculo 
---inner join flotacoches.tipo_moneda tm on tm.idmoneda = vr.idmoneda
---group by v.idvehiculo, m.nombre , vr.idrevision, vr.descripcion, vr.fecha_revision, vr.km_actual, vr.importe, tm.nombre 
---order by idvehiculo , idrevision;
